@@ -1,6 +1,6 @@
 {
   "name": "@yuexiangcli/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "open-cli core",
   "author": "xiang yue <yuexiang009@yeah.com>",
   "homepage": "https://github.com/flay-boy/open-cli/tree/main/packages/core#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/flay-boy/open-cli/issues"
   },
   "dependencies": {
-    "@yuexiangcli/utils": "^1.0.0"
+    "@yuexiangcli/utils": "^0.0.1"
   }
 }
