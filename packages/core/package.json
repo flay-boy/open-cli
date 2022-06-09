@@ -1,0 +1,29 @@
+{
+  "name": "@yuexiangcli/core",
+  "version": "0.0.0",
+  "description": "open-cli core",
+  "author": "xiang yue <yuexiang009@yeah.com>",
+  "homepage": "https://github.com/flay-boy/open-cli/tree/main/packages/core#readme",
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flay-boy/open-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/flay-boy/open-cli/issues"
+  },
+  "dependencies": {
+    "@yuexiangcli/utils": "^1.0.0"
+  }
+}

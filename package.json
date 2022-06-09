@@ -1,0 +1,22 @@
+{
+  "name": "yuexiangcli",
+  "version": "1.0.0",
+  "description": "a open source cli project",
+  "devDependencies": {
+    "lerna": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flay-boy/open-cli.git"
+  },
+  "keywords": [],
+  "author": "yuexiang009@yeah.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/flay-boy/open-cli/issues"
+  },
+  "homepage": "https://github.com/flay-boy/open-cli#readme"
+}
