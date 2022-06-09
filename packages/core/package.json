@@ -26,5 +26,8 @@
   },
   "dependencies": {
     "@yuexiangcli/utils": "^0.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
